@@ -1,7 +1,5 @@
 # Birds Eye View!
 
-**Kategorie:** OSINT
-
 **Level:** 1
 
 **Author:** Yo_Yo_Bro
