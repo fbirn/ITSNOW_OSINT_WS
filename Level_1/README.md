@@ -11,5 +11,8 @@
 **Challenge:**
 What a nice spot to have a picnic, EXAMINE the image and discover where this was taken.
 
+**Resources:**
+view.jpg
+
 **Flag:** 
 Name des genauen Orts! (z.B. Name der Stadt reicht nicht)
