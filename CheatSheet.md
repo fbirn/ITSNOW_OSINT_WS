@@ -22,9 +22,11 @@
 > Zum Analysieren älterer Versionen einer Website (Snapshots)
 * Wayback Machine - https://archive.org/web/
 </br>
+
 > Zum Erkennen von verwendeten Technologien, Software Versionen, etc. 
 * Wappalyzer - https://www.wappalyzer.com/ 
 * BuiltWith - https://pro.builtwith.com/ 
 </br>
+
 > Tool zur Visualisierung von Verbindungen zwischen öffentlich verfügbaren Informationen
 * Maltego - https://www.maltego.com/downloads/
