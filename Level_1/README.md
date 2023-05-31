@@ -1,6 +1,6 @@
 # Birds Eye View!
 
-**Kategorie:** Ort Challenge
+**Kategorie:** OSINT
 
 **Level:** 1
 
