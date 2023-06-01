@@ -30,3 +30,6 @@
 
 > Tool zur Visualisierung von Verbindungen zwischen öffentlich verfügbaren Informationen
 * Maltego - https://www.maltego.com/downloads/
+
+> Intelligence X Data Dump Leak Search: 
+* https://search.illicit.services/
